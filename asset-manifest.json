@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/incredible-project/static/css/main.33bb41d1.css",
+    "main.css": "/incredible-project/static/css/main.3b429a64.css",
     "main.js": "/incredible-project/static/js/main.cf111018.js",
     "static/js/453.8f82ca68.chunk.js": "/incredible-project/static/js/453.8f82ca68.chunk.js",
     "static/media/section.jpg": "/incredible-project/static/media/section.24ff3907cfd7f8c7eea9.jpg",
@@ -13,12 +13,12 @@
     "static/media/image5.jpg": "/incredible-project/static/media/image5.edea18b8cd5d53cf3b7e.jpg",
     "static/media/image2.jpg": "/incredible-project/static/media/image2.0a81e1be60d3be402a1a.jpg",
     "index.html": "/incredible-project/index.html",
-    "main.33bb41d1.css.map": "/incredible-project/static/css/main.33bb41d1.css.map",
+    "main.3b429a64.css.map": "/incredible-project/static/css/main.3b429a64.css.map",
     "main.cf111018.js.map": "/incredible-project/static/js/main.cf111018.js.map",
     "453.8f82ca68.chunk.js.map": "/incredible-project/static/js/453.8f82ca68.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.33bb41d1.css",
+    "static/css/main.3b429a64.css",
     "static/js/main.cf111018.js"
   ]
 }

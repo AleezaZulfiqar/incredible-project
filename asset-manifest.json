@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/incredible-project/static/css/main.33bb41d1.css",
+    "main.js": "/incredible-project/static/js/main.dafc16ff.js",
+    "static/js/453.8f82ca68.chunk.js": "/incredible-project/static/js/453.8f82ca68.chunk.js",
+    "static/media/section.jpg": "/incredible-project/static/media/section.24ff3907cfd7f8c7eea9.jpg",
+    "static/media/image7.jpg": "/incredible-project/static/media/image7.468e1ac19d01780fbcdf.jpg",
+    "static/media/image6.jpg": "/incredible-project/static/media/image6.19c2316f44242b5d0677.jpg",
+    "static/media/image8.jpg": "/incredible-project/static/media/image8.3d7e2b38c0af00515e43.jpg",
+    "static/media/image1.jpg": "/incredible-project/static/media/image1.ff2841cbc1b7be7fa37f.jpg",
+    "static/media/image3.jpg": "/incredible-project/static/media/image3.4bcdf6975fd7f9f161b7.jpg",
+    "static/media/image4.jpg": "/incredible-project/static/media/image4.acb9751a4d41403951a4.jpg",
+    "static/media/image5.jpg": "/incredible-project/static/media/image5.edea18b8cd5d53cf3b7e.jpg",
+    "static/media/image2.jpg": "/incredible-project/static/media/image2.0a81e1be60d3be402a1a.jpg",
+    "index.html": "/incredible-project/index.html",
+    "main.33bb41d1.css.map": "/incredible-project/static/css/main.33bb41d1.css.map",
+    "main.dafc16ff.js.map": "/incredible-project/static/js/main.dafc16ff.js.map",
+    "453.8f82ca68.chunk.js.map": "/incredible-project/static/js/453.8f82ca68.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33bb41d1.css",
+    "static/js/main.dafc16ff.js"
+  ]
+}

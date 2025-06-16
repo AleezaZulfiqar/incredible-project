@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/incredible-project/static/css/main.33bb41d1.css",
-    "main.js": "/incredible-project/static/js/main.dafc16ff.js",
+    "main.js": "/incredible-project/static/js/main.cf111018.js",
     "static/js/453.8f82ca68.chunk.js": "/incredible-project/static/js/453.8f82ca68.chunk.js",
     "static/media/section.jpg": "/incredible-project/static/media/section.24ff3907cfd7f8c7eea9.jpg",
     "static/media/image7.jpg": "/incredible-project/static/media/image7.468e1ac19d01780fbcdf.jpg",
@@ -14,11 +14,11 @@
     "static/media/image2.jpg": "/incredible-project/static/media/image2.0a81e1be60d3be402a1a.jpg",
     "index.html": "/incredible-project/index.html",
     "main.33bb41d1.css.map": "/incredible-project/static/css/main.33bb41d1.css.map",
-    "main.dafc16ff.js.map": "/incredible-project/static/js/main.dafc16ff.js.map",
+    "main.cf111018.js.map": "/incredible-project/static/js/main.cf111018.js.map",
     "453.8f82ca68.chunk.js.map": "/incredible-project/static/js/453.8f82ca68.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.33bb41d1.css",
-    "static/js/main.dafc16ff.js"
+    "static/js/main.cf111018.js"
   ]
 }
